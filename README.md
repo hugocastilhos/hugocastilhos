@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hello, my name is [Hugo Castilhos], I have a degree in Publicity and Propaganda, I have a degree from Abobe in its other programs, I also have a Front-End development course focused on HTML, CSS, JS,  Python and at the moment I am studying 3D (Blender).
 
-<!--
-**hugocastilhos/hugocastilhos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I believe that my greatest talent within the medium I work in is understanding the aesthetic essence of each brand/company and what it wants to convey to its audience through the on and/or off visual materials that I can produce. I like to think, research and create projects where I can develop or improve the concept of each brand I work with.
 
-Here are some ideas to get you started:
+I work with materials on and off. The software that I use most and master in my daily life are Photoshop, Illustrator, After Effects, Premiere, Visual Studio Code and Blender.
+I have worked with several clients, including real estate companies, companies in the hospitality industry, health, clothing brands, advertising agencies, among many others.
+I am the CEO and founder of Kactus Studio (https://kactusstudio.com.br/).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Thank you for your attention and I hope to help you soon.! 👋
+
+**Desenvolvedor Web (Front-End)**
+<img align="center" alt="JS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+
+### 📊 Estatísticas
+[![Hugo Castilhos](https://github-readme-stats.vercel.app/api?username=hugocastilhosO&show_icons=true&theme=tokyonight)](https://github.com/anuraghazard/github-readme-stats)
+
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=hugocastilhos&layout=compact&theme=tokyonight)](https://github.com/anuraghazard/github-readme-stats)
