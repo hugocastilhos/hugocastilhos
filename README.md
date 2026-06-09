@@ -4,7 +4,7 @@ I believe that my greatest talent within the medium I work in is understanding t
 
 I work with materials on and off. The software that I use most and master in my daily life are Photoshop, Illustrator, After Effects, Premiere, Visual Studio Code and Blender.
 I have worked with several clients, including real estate companies, companies in the hospitality industry, health, clothing brands, advertising agencies, among many others.
-I am the CEO and founder of Kactus Studio (https://kactusstudio.com.br/).
+I am the CEO and founder of Kactus Studio: https://kactusstudio.com.br/.
 
 Thank you for your attention and I hope to help you soon.! 👋
 
@@ -23,6 +23,6 @@ Thank you for your attention and I hope to help you soon.! 👋
 <img align="center" alt="Blender" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg">
 
 ### 📊 Estatísticas
-[![Hugo Castilhos](https://github-readme-stats.vercel.app/api?username=hugocastilhosO&show_icons=true&theme=tokyonight)](https://github.com/anuraghazard/github-readme-stats)
+[![Hugo Castilhos](https://github-readme-stats.vercel.app/api?username=hugocastilhos&show_icons=true&theme=tokyonight)](https://github.com/anuraghazard/github-readme-stats)
 
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=hugocastilhos&layout=compact&theme=tokyonight)](https://github.com/anuraghazard/github-readme-stats)
