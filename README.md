@@ -9,9 +9,18 @@ I am the CEO and founder of Kactus Studio (https://kactusstudio.com.br/).
 Thank you for your attention and I hope to help you soon.! 👋
 
 **Desenvolvedor Web (Front-End)**<br>
-<img align="center" alt="JS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html/html-original.svg">
-<img align="center" alt="JS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css/css-original.svg">
+<img align="center" alt="HTML5" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
+<img align="center" alt="CSS3" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
 <img align="center" alt="JS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+<img align="center" alt="Python" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
+<img align="center" alt="Bootstrap" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
+<img align="center" alt="Docker" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
+<img align="center" alt="VSCode" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
+<img align="center" alt="Railway App" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/railway/railway-original.svg">
+<img align="center" alt="Illustrator" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-original.svg">
+<img align="center" alt="Photoshop" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg">
+<img align="center" alt="Premiere" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-original.svg.svg">
+<img align="center" alt="Blender" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg">
 
 ### 📊 Estatísticas
 [![Hugo Castilhos](https://github-readme-stats.vercel.app/api?username=hugocastilhosO&show_icons=true&theme=tokyonight)](https://github.com/anuraghazard/github-readme-stats)
