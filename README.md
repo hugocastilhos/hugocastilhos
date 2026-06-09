@@ -1,4 +1,4 @@
-# Hello, my name is [Hugo Castilhos], I have a degree in Publicity and Propaganda, I have a degree from Abobe in its other programs, I also have a Front-End development course focused on HTML, CSS, JS,  Python and at the moment I am studying 3D (Blender).
+Hello, my name is [Hugo Castilhos], I have a degree in Publicity and Propaganda, I have a degree from Abobe in its other programs, I also have a Front-End development course focused on HTML, CSS, JS,  Python and at the moment I am studying 3D (Blender).
 
 I believe that my greatest talent within the medium I work in is understanding the aesthetic essence of each brand/company and what it wants to convey to its audience through the on and/or off visual materials that I can produce. I like to think, research and create projects where I can develop or improve the concept of each brand I work with.
 
