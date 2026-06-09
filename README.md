@@ -8,7 +8,9 @@ I am the CEO and founder of Kactus Studio (https://kactusstudio.com.br/).
 
 Thank you for your attention and I hope to help you soon.! 👋
 
-**Desenvolvedor Web (Front-End)**
+**Desenvolvedor Web (Front-End)**<br>
+<img align="center" alt="JS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html/html-original.svg">
+<img align="center" alt="JS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css/css-original.svg">
 <img align="center" alt="JS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
 
 ### 📊 Estatísticas
