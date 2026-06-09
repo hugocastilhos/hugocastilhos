@@ -19,7 +19,6 @@ Thank you for your attention and I hope to help you soon.! 👋
 <img align="center" alt="Railway App" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/railway/railway-original.svg">
 <img align="center" alt="Illustrator" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-original.svg">
 <img align="center" alt="Photoshop" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg">
-<img align="center" alt="Premiere" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-original.svg.svg">
 <img align="center" alt="Blender" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg">
 
 ### 📊 Estatísticas
